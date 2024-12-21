@@ -23,7 +23,7 @@ private String releaseDate;
 private String trailerLink;
 private List<String> genres;
 private String poster;
-private List<String> backDrops;
+private List<String> backdrops;
 @DocumentReference
 private List<Review> reviewIds;
 }
